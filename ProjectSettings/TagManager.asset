@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Grass
+  - Edge
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Falling Edge
+    uniqueID: 1418179825
+    locked: 0
+  - name: Platform
+    uniqueID: 2413489219
+    locked: 0
+  - name: Player
+    uniqueID: 3032982075
+    locked: 0
+  - name: Body Parts
+    uniqueID: 3392236611
+    locked: 0
+  - name: Pickups
+    uniqueID: 1746370505
+    locked: 0
+  - name: Bombs
+    uniqueID: 3967818527
+    locked: 0
